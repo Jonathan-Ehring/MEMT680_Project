@@ -1,3 +1,5 @@
+**TO RUN THE PROGRAM: launch the jupyter notebook FCDI_app.ipynb****
+
 Project Background:
 
 Flow capacitive deionization (FCDI) is a method of water desalination that is electrically driven and more energy efficient compared to reverse osmosis (RO) at lower salt concentrations. Given the high number of inputs (voltage, flow rate, carbon loading, salt concentration, electrolyte (NaCl, NaOH, etc.), temperature, flow field geometry, conductive additive loading, dispersant loading, emulsifier loading, and other materials selection), optimization of FCDI is difficult and tedious to conduct. Previous studies [1] have performed optimization of FCDI under constant voltage, flow rate and salt concentration. There has yet to be a study of FCDI that performs under dynamic conditions. For instance, decreasing the flow rate and voltage towards the end of the desalination process may increase efficiency. 
